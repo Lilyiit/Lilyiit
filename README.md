@@ -1,22 +1,22 @@
-<!-- Banner -->
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="./assets/git3.gif" width="250px"></td>
-      <td><img src="./assets/git5.gif" width="250px"></td>
-    </tr>
-  </table>
-  <h2>sup, I’m Yiğit (aka Lilyiit) 👋</h2>
-  <h4>🚀 Jr. Developer | 🎮 Game Dev Enthusiast | 🌐 Web Explorer</h4>
+  <img src="./assets/git3.gif" width="300px">
+  <h2>sup, I’m Yiğit 👋</h2>
+  <h4>🚀 Jr. Developer | 🎮  Jr.Game Dev Dev | 🌐 Jr. Web Dev</h4>
 </div>
 
 ---
 
 ### 🌍 About Me
-- 👨‍💻 A growth-focused Jr. Developer  
-- 🎮 Interested in Game Development (Unity)  
-- 📚 Love learning and sharing knowledge  
-- 🤝 Value teamwork and collaboration  
+- 👨‍💻 Growth-focused Jr. Developer  
+- 🎮 Passionate about Game Development (Unity)  
+- 📚 Curious and eager to learn new skills  
+- 🤝 Collaborative mindset and team-oriented  
+
+---
+
+<div align="center">
+  <img src="./assets/git4.gif" width="350px">
+</div>
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lilyiit&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilyiit&theme=tokyonight" />
@@ -45,7 +45,6 @@
 </div>
 
 ---
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">

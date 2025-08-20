@@ -1,6 +1,5 @@
 <div align="center">
   <img src="./assets/git5.gif" width="300px">
-  <img src="./assets/git3.gif" width="300px">
   <h2>sup, I’m Yiğit 👋</h2>
   <h4>🚀 Jr. Developer | 🎮  Jr.Game Dev Dev | 🌐 Jr. Web Dev</h4>
 </div>
@@ -37,10 +36,10 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/yigitatayucel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:yucelyigitata@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/lilyiit" target="_blank">

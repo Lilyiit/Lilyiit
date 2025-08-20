@@ -10,7 +10,6 @@
 - 👨‍💻 Growth-focused Jr. Developer  
 - 🎮 Passionate about Game Development (Unity)  
 - 📚 Curious and eager to learn new skills  
-- 🤝 Collaborative mindset and team-oriented  
 
 ### 🚀 Tech & Tools
 <p align="center">

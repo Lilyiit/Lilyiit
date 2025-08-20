@@ -12,14 +12,6 @@
 - 📚 Curious and eager to learn new skills  
 - 🤝 Collaborative mindset and team-oriented  
 
----
-
-<div align="center">
-  <img src="./assets/git4.gif" width="350px">
-</div>
-
----
-
 ### 🚀 Tech & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -35,8 +27,6 @@
   <img src="./assets/git1.gif" width="250px">
 </p>
 
----
-
 ### ⚡ GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lilyiit&show_icons=true&theme=tokyonight" />
@@ -44,7 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilyiit&layout=compact&theme=tokyonight" />
 </div>
 
----
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
@@ -61,8 +50,6 @@
 <p align="center">
   <img src="./assets/git2.gif" width="400px">
 </p>
-
----
 
 ### 🖤 Motto 
 > *“When You Die, You'll Be Alone.”*

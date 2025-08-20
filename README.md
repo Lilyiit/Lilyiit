@@ -22,10 +22,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="./assets/git1.gif" width="400px">
-</p>
-
 ### ⚡ GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lilyiit&show_icons=true&theme=tokyonight" />

@@ -1,6 +1,11 @@
 <!-- Banner -->
 <div align="center">
-  <img src="./assets/git3.gif" width="300px">
+  <table>
+    <tr>
+      <td><img src="./assets/git3.gif" width="300px"></td>
+      <td><img src="./assets/git5.gif" width="300px"></td>
+    </tr>
+  </table>
   <h2>sup, I’m Yiğit (aka Lilyiit) 👋</h2>
   <h4>🚀 Jr. Developer | 🎮 Game Dev Enthusiast | 🌐 Web Explorer</h4>
 </div>
@@ -11,11 +16,6 @@
 - 👨‍💻 A growth-focused Jr. Developer  
 - 🎮 Interested in Game Development (Unity)  
 - 📚 Love learning and sharing knowledge  
-- 🤝 Value teamwork and collaboration  
-
-<p align="center">
-  <img src="./assets/git4.gif" width="350px">
-</p>
 
 ---
 
@@ -48,10 +48,10 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/yigitatayucel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:yucelyigitata@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/lilyiit" target="_blank">
@@ -67,7 +67,3 @@
 
 ### 🖤 Motto
 > *“Strength comes from consistency.”*
-
-<p align="center">
-  <img src="./assets/git5.gif" width="300px">
-</p>

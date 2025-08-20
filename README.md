@@ -45,8 +45,3 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="./assets/git2.gif" width="400px">
-</p>
-

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/git5.gif" width="300px">
+  <img src="./assets/git5.gif" width="450px">
   <h2>sup, I’m Yiğit 👋</h2>
   <h4>🚀 Jr. Developer | 🎮  Jr.Game Dev Dev | 🌐 Jr. Web Dev</h4>
 </div>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/git1.gif" width="250px">
+  <img src="./assets/git1.gif" width="400px">
 </p>
 
 ### ⚡ GitHub Stats

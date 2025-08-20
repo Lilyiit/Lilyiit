@@ -51,5 +51,3 @@
   <img src="./assets/git2.gif" width="400px">
 </p>
 
-### 🖤 Motto 
-> *“When You Die, You'll Be Alone.”*

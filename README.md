@@ -25,7 +25,9 @@
 ### ⚡ GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lilyiit&show_icons=true&theme=tokyonight" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilyiit&theme=tokyonight" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilyiit&layout=compact&theme=tokyonight" />
 </div>
 

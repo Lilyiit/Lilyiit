@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/git5.gif" width="450px">
   <h2>sup, I’m Yiğit 👋</h2>
-  <h4>🚀 Jr. Developer | 🎮  Jr.Game Dev Dev | 🌐 Jr. Web Dev</h4>
+  <h4>🚀 Jr. Developer | 🎮  Jr.Game Dev | 🌐 Jr. Web Dev</h4>
 </div>
 
 ---

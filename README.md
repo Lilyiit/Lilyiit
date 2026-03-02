@@ -22,15 +22,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### ⚡ GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilyiit&show_icons=true&theme=tokyonight" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilyiit&theme=tokyonight" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilyiit&layout=compact&theme=tokyonight" />
-</div>
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/yigitatayucel/" target="_blank">
